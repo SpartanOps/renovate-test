@@ -3,6 +3,6 @@
     "config:base"
   ],
   "reviewers": [
-    "team:core"
+    "team:core", "team:core-1"
   ]
 }
