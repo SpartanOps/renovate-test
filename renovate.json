@@ -3,6 +3,8 @@
     "config:base"
   ],
   "reviewers": [
-    "team:core-1"
+    "team:SpartanOps/core-1",
+    "core-1",
+    "NargiT"
   ]
 }
